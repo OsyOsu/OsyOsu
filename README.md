@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Osvaldo Luemba
 ======================================================================================================================================
 
-Network infrastructure engineer, now migrating to Software Development
+Infrastructure engineer
 <img align="right" alt="Computador" src="https://camo.githubusercontent.com/9ed47b795685aca114444d831a7892e22e714e383331115663871b6c898908d4/68747470733a2f2f616e79666f72736f66742e636f6d2f7374617469632f61326461383334653230613933663231313432383161313137343239366235382f31372e676966" data-canonical-src="https://anyforsoft.com/static/a2da834e20a93f2114281a1174296b58/17.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
-Network infrastructure engineer graduated from Stratford University, Campos in India. I have more than 4 years of experience in the areas of networks (Cisco, Ubiquiti and others), servers (Ubuntu, Debian and CentOS) and Telecom (Microwaves, FreePBX, Motorola (radios and repeaters)). I have participated in microwave projects of more than 60 kilometers connecting offshore plants and bases in Onshore, I have already created several websites in WordPress, I have more than 3 years of experience with Odoo ERP, Pfsense, FreeNas, VM (Virtualbox, VMWARE and others). Other skills : Git and Github, docker, wireguard, Opensense, Pfsense, OpenVPN, Ubiquiti controllers, Lamp Server, Windows, MacOS, Ubuntu, OsintFramework. Right now I'm migrating to the area of systems development and automation using Python.
+Infrastructure Engineer graduated from Stratford University, Campos in India. I have more than 5 years of experience in the areas of networks (Cisco, Ubiquiti and others), servers (Ubuntu, Debian and CentOS) and Telecom (Microwaves, FreePBX, Motorola (radios and repeaters)). I have participated in microwave projects of more than 60 kilometers connecting offshore plants and bases in Onshore, I have already created several websites in WordPress, I have more than 3 years of experience with Odoo ERP, Pfsense, FreeNas, VM (Virtualbox, VMWARE and others). Other skills : Git and Github, docker, wireguard, Opensense, Pfsense, OpenVPN, Ubiquiti controllers, Lamp Server, Windows, MacOS, Ubuntu, OsintFramework. Right now I'm migrating to the area of systems development and automation using Python.
 
 * 🌍  I'm based in United States
 * 🚀  I'm currently working on [Two Python project o](http://localhost)
